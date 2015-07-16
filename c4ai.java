@@ -28,7 +28,7 @@ public class c4ai {
 			return Integer.MAX_VALUE;
 		}
 
-		// heuristic value
+		// heuristic value TODO
 		if (depth == 0) {
 			return 0;
 		}
